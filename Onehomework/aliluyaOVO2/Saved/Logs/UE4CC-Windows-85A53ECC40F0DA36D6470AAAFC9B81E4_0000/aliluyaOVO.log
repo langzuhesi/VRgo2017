@@ -1,0 +1,511 @@
+﻿Log file open, 01/12/17 11:27:30
+LogInit:Display: Running engine for game: aliluyaOVO
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(1431962468) SRandInit(1431962468).
+LogTaskGraph: Started task graph with 5 named threads and 6 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.059237
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin AudioCapture, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/AudioCapture/AudioCapture.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGameCircle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGameCircle/OnlineSubsystemGameCircle.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin MIDIDevice, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MIDIDevice/MIDIDevice.uplugin
+LogPluginManager: Loaded Plugin MobilePatchingUtils, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/MobilePatchingUtils/MobilePatchingUtils.uplugin
+LogPluginManager: Loaded Plugin Ansel, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Nvidia/Ansel/Ansel.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogPluginManager: Loaded Plugin EditorTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/EditorTests/EditorTests.uplugin
+LogPluginManager: Loaded Plugin FbxAutomationTestBuilder, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FbxAutomationTestBuilder/FbxAutomationTestBuilder.uplugin
+LogPluginManager: Loaded Plugin FunctionalTestingEditor, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/FunctionalTestingEditor/FunctionalTestingEditor.uplugin
+LogPluginManager: Loaded Plugin RuntimeTests, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/RuntimeTests/RuntimeTests.uplugin
+LogPluginManager: Loaded Plugin ScreenshotTools, From C:/Program Files (x86)/Epic Games/4.14/Engine/Plugins/Tests/ScreenshotTools/ScreenshotTools.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.14-CL-3249277
+LogInit: Engine Version: 4.14.3-3249277+++UE4+Release-4.14
+LogInit: Compatible Engine Version: 4.14.0-3195953+++UE4+Release-4.14
+LogInit: Net CL: 3195953
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 7
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 8
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 17
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 12
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 1
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Jan  6 2017 10:49:43
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.14
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.14/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.01.12-03.27.31:247][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.12-03.27.31:247][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.01.12-03.27.31:256][  0]LogInit: Computer: X6X8-20160115BT
+[2017.01.12-03.27.31:256][  0]LogInit: User: Administrator
+[2017.01.12-03.27.31:256][  0]LogInit: CPU Page size=65536, Cores=2
+[2017.01.12-03.27.31:256][  0]LogInit: High frequency timer resolution =2.533271 MHz
+[2017.01.12-03.27.31:256][  0]LogMemory: Memory total: Physical=3.7GB (4GB approx)
+[2017.01.12-03.27.31:256][  0]LogMemory: Platform Memory Stats for Windows
+[2017.01.12-03.27.31:256][  0]LogMemory: Process Physical Memory: 265.11 MB used, 265.11 MB peak
+[2017.01.12-03.27.31:256][  0]LogMemory: Process Virtual Memory: 264.29 MB used, 264.29 MB peak
+[2017.01.12-03.27.31:256][  0]LogMemory: Physical Memory: 1665.05 MB used,  2151.85 MB free, 3816.90 MB total
+[2017.01.12-03.27.31:256][  0]LogMemory: Virtual Memory: 662.28 MB used,  2151.85 MB free, 8388608.00 MB total
+[2017.01.12-03.27.31:378][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:InternalTimeAccumulator):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (502993589) Localized String: (用于引用此节点中的资源的累积时间)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (502993589) Localized String: (引用该节点中资源所用的累计时间)
+[2017.01.12-03.27.31:378][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:bIgnoreForRelevancyTest):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (319969718) Localized String: (若为真，在状态中寻找最高权重动画的“相关动画”节点将忽视 此节点)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (319969718) Localized String: (如果为真，那么将会忽略查找最高权重动画的"相关动画"节点。
+这个节点)
+[2017.01.12-03.27.31:379][  0]LogTextLocalizationManager:Warning: Loaded localization resources contain conflicting entries for (Namespace:UObjectToolTips, Key:AnimNode_AssetPlayerBase:BlendWeight):
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/EditorTutorials/zh-CN/EditorTutorials.locres) Source String Hash: (-1232800293) Localized String: (此节点最后交会的混合权重)
+Localization Resource: (C:/Program Files (x86)/Epic Games/4.14/Engine/Content/Localization/Engine/zh-CN/Engine.locres) Source String Hash: (-1232800293) Localized String: (该节点上一次遇到的混合权重)
+[2017.01.12-03.27.31:819][  0]LogD3D11RHI: D3D11 adapters:
+[2017.01.12-03.27.31:849][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GT 720M' (Feature Level 11_0)
+[2017.01.12-03.27.31:850][  0]LogD3D11RHI:       978/0/1652 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.01.12-03.27.31:869][  0]LogD3D11RHI:    1. 'NVIDIA GeForce GT 720M' (Feature Level 11_0)
+[2017.01.12-03.27.31:869][  0]LogD3D11RHI:       978/0/1652 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2017.01.12-03.27.31:869][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.01.12-03.27.31:875][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.01.12-03.27.31:876][  0]LogD3D11RHI:     GPU DeviceId: 0x1140 (for the marketing name, search the web for "GPU Device Id")
+[2017.01.12-03.27.31:876][  0]LogWindows: EnumDisplayDevices:
+[2017.01.12-03.27.31:876][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2017.01.12-03.27.31:876][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.12-03.27.31:876][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.01.12-03.27.31:876][  0]LogWindows:    3. 'NVIDIA GeForce GT 720M' (P:0 D:0)
+[2017.01.12-03.27.31:877][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2017.01.12-03.27.31:877][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2017.01.12-03.27.31:877][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2017.01.12-03.27.31:877][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter 
+[2017.01.12-03.27.31:877][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GT 720M
+[2017.01.12-03.27.31:877][  0]LogD3D11RHI:   Driver Version: 369.59 (internal:21.21.13.6959, unified:369.59)
+[2017.01.12-03.27.31:877][  0]LogD3D11RHI:      Driver Date: 10-18-2016
+[2017.01.12-03.27.31:877][  0]LogRHI: Texture pool is 685 MB (70% of 978 MB)
+[2017.01.12-03.27.31:897][  0]LogD3D11RHI:Warning: Timestamp queries are currently disabled on this hardware due to instability. Realtime GPU stats will not be available. You can override this behaviour by setting r.NVIDIATimestampWorkaround to 0
+[2017.01.12-03.27.31:897][  0]LogD3D11RHI: Async texture creation enabled
+[2017.01.12-03.27.31:913][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2017.01.12-03.27.31:913][  0]LogShaderCompilers: Guid format shader working directory is 25 characters bigger than the processId version (D:/zuoye1/ALILUYA1/aliluyaOVO/Intermediate/Shaders/WorkingDirectory/5524/).
+[2017.01.12-03.27.31:913][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/2A1DA107487D0A13B379C4859CD885E5/'.
+[2017.01.12-03.27.31:913][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.01.12-03.27.35:110][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.01.12-03.27.35:162][  0]LogTemp:Display: Loaded TP MacClientTargetPlatform
+[2017.01.12-03.27.35:217][  0]LogTemp:Display: Loaded TP MacNoEditorTargetPlatform
+[2017.01.12-03.27.35:270][  0]LogTemp:Display: Loaded TP MacServerTargetPlatform
+[2017.01.12-03.27.35:321][  0]LogTemp:Display: Loaded TP MacTargetPlatform
+[2017.01.12-03.27.35:373][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.01.12-03.27.35:425][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.01.12-03.27.35:476][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.01.12-03.27.35:518][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.01.12-03.27.35:569][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.01.12-03.27.35:619][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.01.12-03.27.35:670][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.01.12-03.27.35:723][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.01.12-03.27.35:773][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.01.12-03.27.35:825][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.01.12-03.27.35:926][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.01.12-03.27.35:926][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.01.12-03.27.35:960][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.01.12-03.27.36:043][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.01.12-03.27.36:076][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.01.12-03.27.36:125][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.01.12-03.27.36:176][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.01.12-03.27.36:227][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.01.12-03.27.36:279][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.01.12-03.27.36:279][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.01.12-03.27.36:655][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache: Loaded boot cache 0.36s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/zuoye1/ALILUYA1/aliluyaOVO/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/zuoye1/ALILUYA1/aliluyaOVO/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.01.12-03.27.37:013][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.01.12-03.27.37:031][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.01.12-03.27.37:042][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.01.12-03.27.37:264][  0]LogInit: Selected Device Profile: [Windows]
+[2017.01.12-03.27.37:268][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.01.12-03.27.37:488][  0]LogMeshUtilities: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.01.12-03.27.37:535][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.01.12-03.27.37:578][  0]LogMeshUtilities: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.01.12-03.27.37:578][  0]LogMeshUtilities: No automatic skeletal mesh reduction module available
+[2017.01.12-03.27.37:578][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.01.12-03.27.38:140][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3195953, ProjectName: aliluyaovo, ProjectVersion: , EngineNetworkVersion: 2, GameNetworkVersion: 0, NetworkChecksum: 3199669633
+[2017.01.12-03.27.38:197][  0]LogAssetRegistry: FAssetRegistry took 0.0202 seconds to start up
+[2017.01.12-03.27.38:283][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 4 prioritized culture(s) in 0.053093 seconds
+[2017.01.12-03.27.38:289][  0]LogUObjectArray: 31946 objects as part of root set at end of initial load.
+[2017.01.12-03.27.38:289][  0]LogUObjectAllocator: 6935848 out of 0 bytes used by permanent object pool.
+[2017.01.12-03.27.38:289][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.01.12-03.27.38:353][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.01.12-03.27.39:014][  0]LogSlate: Using Freetype 2.6.0
+[2017.01.12-03.27.39:015][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.12-03.27.39:015][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.01.12-03.27.39:765][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.01.12-03.27.39:803][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.01.12-03.27.40:307][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.01.12-03.27.40:667][  0]SourceControl: 信息 源码控制已禁用
+[2017.01.12-03.27.40:718][  0]SourceControl: 信息 源码控制已禁用
+[2017.01.12-03.27.40:758][  0]SourceControl: 信息 源码控制已禁用
+[2017.01.12-03.27.40:799][  0]SourceControl: 信息 源码控制已禁用
+[2017.01.12-03.27.41:964][  0]LogEngine: Initializing Engine...
+[2017.01.12-03.27.41:964][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.01.12-03.27.42:244][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.01.12-03.27.42:265][  0]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-03.27.42:321][  0]LogInit: FAudioDevice initialized.
+[2017.01.12-03.27.42:395][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.14/DerivedDataCache/Boot.ddc.
+[2017.01.12-03.27.42:422][  0]LogInit: Texture streaming: Enabled
+[2017.01.12-03.27.42:638][  0]LogInit: Transaction tracking system initialized
+[2017.01.12-03.27.43:018][  0]BlueprintLog: New page: 编辑器加载
+[2017.01.12-03.27.43:992][  0]LocalizationService: 信息 本地化服务已被禁用
+[2017.01.12-03.27.44:746][  0]LogConsoleResponse:Display: 
+[2017.01.12-03.27.44:926][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.01.12-03.27.44:926][  0]LogCook:Display: Mobile HDR setting 1
+[2017.01.12-03.27.45:080][  0]LogFileCache: Scanning file cache for directory 'D:/zuoye1/ALILUYA1/aliluyaOVO/Content/' took 0.02s
+[2017.01.12-03.27.45:857][  0]SourceControl: 信息 源码控制已禁用
+[2017.01.12-03.27.45:857][  0]Cmd: MAP LOAD FILE="D:/zuoye1/ALILUYA1/aliluyaOVO/Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.01.12-03.27.45:858][  0]LightingResults: New page: 光照构建
+[2017.01.12-03.27.45:894][  0]MapCheck: New page: 地图检测
+[2017.01.12-03.27.45:894][  0]LightingResults: New page: 光照构建
+[2017.01.12-03.27.46:122][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-03.27.46:128][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.01.12-03.27.46:129][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.01.12-03.27.46:175][  0]MapCheck: 信息 地图检测完成：0个错误，0 个警告，用时46.243毫秒完成。
+[2017.01.12-03.27.46:175][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.318
+[2017.01.12-03.27.46:319][  0]LogCollectionManager: Loaded 0 collections in 0.001363 seconds
+[2017.01.12-03.27.46:391][  0]LogFileCache: Scanning file cache for directory 'D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/Collections/' took 0.01s
+[2017.01.12-03.27.46:391][  0]LogFileCache: Scanning file cache for directory 'D:/zuoye1/ALILUYA1/aliluyaOVO/Content/Developers/Administrator/Collections/' took 0.01s
+[2017.01.12-03.27.46:391][  0]LogFileCache: Scanning file cache for directory 'D:/zuoye1/ALILUYA1/aliluyaOVO/Content/Collections/' took 0.01s
+[2017.01.12-03.27.46:391][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2017.01.12-03.27.46:402][  0]LogContentBrowser: Native class hierarchy populated in 0.0104 seconds. Added 2194 classes and 430 folders.
+[2017.01.12-03.27.46:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.01.12-03.27.46:445][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.01.12-03.27.46:446][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0010 seconds. Added 13 classes and 0 folders.
+[2017.01.12-03.27.46:509][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2017.01.12-03.27.46:554][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0010 seconds. Added 0 classes and 0 folders.
+[2017.01.12-03.27.46:598][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0015 seconds. Added 1 classes and 2 folders.
+[2017.01.12-03.27.46:645][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.01.12-03.27.46:650][  0]LogUObjectGlobals:Warning: 寻找对象'Class 无.'失败
+[2017.01.12-03.27.46:722][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0014 seconds. Added 1 classes and 2 folders.
+[2017.01.12-03.27.46:722][  0]LogLoad: (Engine Initialization) Total time: 16.82 seconds
+[2017.01.12-03.27.46:722][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.13 seconds
+[2017.01.12-03.27.46:722][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.01.12-03.27.46:722][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.01.12-03.27.46:743][  0]LogOcInput: OculusInput pre-init called
+[2017.01.12-03.27.46:762][  0]LogContentStreaming: Texture pool size now 800 MB
+[2017.01.12-03.27.46:922][  0]LogRenderer: Reallocating scene render targets to support 856x368 NumSamples 1 (Frame:2).
+[2017.01.12-03.27.47:291][  2]LogAssetRegistry: Asset discovery search completed in 9.1146 seconds
+[2017.01.12-03.27.47:291][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.01.12-03.27.47:291][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000017 seconds (updated 0 objects)
+[2017.01.12-03.28.29:738][178]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.01.12-03.28.34:008][424]Cmd: DELETE
+[2017.01.12-03.28.34:008][424]Cmd: ACTOR DELETE
+[2017.01.12-03.28.34:010][424]LogEditorActor: Deleted Actor: SpotLight
+[2017.01.12-03.28.34:033][424]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2017.01.12-03.32.15:105][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.01.12-03.32.15:284][396]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.12-03.33.18:488][333]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2017.01.12-03.33.26:928][677]LogTexture:Display: 正在构建贴图: T_Rock_Sandstone_N (BC5)
+[2017.01.12-03.33.28:132][677]LogTexture:Display: 正在构建贴图: T_Rock_Sandstone_D (AutoDXT)
+[2017.01.12-03.34.08:752][341]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.34.09:344][373]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.37.41:650][417]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.01.12-03.37.42:642][474]Cmd: EDIT COPY
+[2017.01.12-03.37.42:959][493]Cmd: EDIT PASTE
+[2017.01.12-03.38.38:887][767]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2017.01.12-03.38.39:770][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.01.12-03.38.40:987][873]Cmd: EDIT COPY
+[2017.01.12-03.38.41:221][887]Cmd: EDIT PASTE
+[2017.01.12-03.39.17:845][  2]LogSavePackage: Save=50.76ms
+[2017.01.12-03.39.17:845][  2]LogSavePackage: Moving 'D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/FirstPersonExampleMap_Auto1C2CC731D49CC89F0B6898BB08BE2E5E1.tmp' to 'D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap'
+[2017.01.12-03.39.17:846][  2]LogSavePackage:Display: Finished SavePackage D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto1.umap
+[2017.01.12-03.39.17:848][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.074
+[2017.01.12-03.39.17:848][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.074
+[2017.01.12-03.39.41:720][387]Cmd: EDIT COPY
+[2017.01.12-03.39.41:953][401]Cmd: EDIT PASTE
+[2017.01.12-03.40.05:493][737]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2017.01.12-03.40.06:435][791]Cmd: EDIT COPY
+[2017.01.12-03.40.06:651][804]Cmd: EDIT PASTE
+[2017.01.12-03.40.39:112][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.01.12-03.40.40:405][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.01.12-03.40.41:258][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2017.01.12-03.40.42:974][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.01.12-03.40.50:320][197]Cmd: EDIT COPY
+[2017.01.12-03.40.50:550][208]Cmd: EDIT PASTE
+[2017.01.12-03.41.08:997][260]Cmd: EDIT COPY
+[2017.01.12-03.41.09:220][272]Cmd: EDIT PASTE
+[2017.01.12-03.41.36:124][792]Cmd: EDIT COPY
+[2017.01.12-03.41.36:397][808]Cmd: EDIT PASTE
+[2017.01.12-03.41.38:996][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.01.12-03.41.45:142][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube9)
+[2017.01.12-03.42.09:369][687]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.01.12-03.42.10:372][743]Cmd: EDIT COPY
+[2017.01.12-03.42.10:614][757]Cmd: EDIT PASTE
+[2017.01.12-03.42.41:225][340]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.42.42:463][410]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.43.06:061][750]LogTemp: Repeting last play command: 选中的视口
+[2017.01.12-03.43.06:075][750]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-03.43.06:075][750]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-03.43.06:076][750]PIE: New page: PIE会话: FirstPersonExampleMap (2017年1月12日 下午7:43:06)
+[2017.01.12-03.43.06:076][750]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.12-03.43.06:079][750]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003687s)
+[2017.01.12-03.43.06:080][750]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-03.43.06:081][750]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2017.01.12-03.43.06:082][750]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.006083s)
+[2017.01.12-03.43.06:106][750]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-03.43.06:124][750]LogInit: FAudioDevice initialized.
+[2017.01.12-03.43.06:171][750]LogLoad: Game class is 'aliluyaOVOGameMode'
+[2017.01.12-03.43.06:173][750]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.01.12-11.43.06
+[2017.01.12-03.43.06:173][750]LogWorld: Bringing up level for play took: 0.001132
+[2017.01.12-03.43.06:214][750]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0013 seconds. Added 11 classes and 0 folders.
+[2017.01.12-03.43.06:217][750]PIE: 信息 /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.52
+[2017.01.12-03.43.06:218][750]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-03.43.39:262][720]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-03.43.39:312][720]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-03.43.57:047][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.01.12-03.45.02:916][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.01.12-03.45.07:612][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.01.12-03.47.20:003][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.01.12-03.47.28:059][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.01.12-03.51.15:969][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2017.01.12-03.51.45:423][653]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2017.01.12-03.52.06:620][831]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Cube8)
+[2017.01.12-03.52.11:920][ 81]Cmd: DELETE
+[2017.01.12-03.52.11:920][ 81]Cmd: ACTOR DELETE
+[2017.01.12-03.52.11:921][ 81]LogEditorActor: Deleted Actor: SpotLight
+[2017.01.12-03.52.11:945][ 81]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2017.01.12-03.52.44:568][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube11)
+[2017.01.12-03.53.02:220][745]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2017.01.12-03.53.03:445][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2017.01.12-03.53.04:076][845]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.12-03.53.38:887][733]LogActorFactory: Actor Factory created Cone
+[2017.01.12-03.53.40:384][816]LogActorFactory: Actor Factory created Cone
+[2017.01.12-03.54.23:309][128]LogSavePackage: Save=67.64ms
+[2017.01.12-03.54.23:309][128]LogSavePackage: Moving 'D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/FirstPersonExampleMap_Auto26732CC7D438BA8E0EDF5E4A2E4FEAA90.tmp' to 'D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap'
+[2017.01.12-03.54.23:310][128]LogSavePackage:Display: Finished SavePackage D:/zuoye1/ALILUYA1/aliluyaOVO/Saved/Autosaves/Game/FirstPersonCPP/Maps/FirstPersonExampleMap_Auto2.umap
+[2017.01.12-03.54.23:312][128]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap' took 0.099
+[2017.01.12-03.54.23:312][128]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.099
+[2017.01.12-03.55.31:870][914]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.55.33:663][ 21]LogActorFactory: Actor Factory created Cube
+[2017.01.12-03.55.54:643][961]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2017.01.12-03.56.16:329][ 65]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2017.01.12-03.56.24:671][509]Cmd: DELETE
+[2017.01.12-03.56.24:671][509]Cmd: ACTOR DELETE
+[2017.01.12-03.56.24:672][509]LogEditorActor: Deleted Actor: Brush
+[2017.01.12-03.56.24:702][509]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2017.01.12-03.56.29:305][754]Cmd: BRUSH SUBTRACT SELECTNEWBRUSH
+[2017.01.12-03.57.08:106][  0]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube12)
+[2017.01.12-03.57.24:736][753]Cmd: DELETE
+[2017.01.12-03.57.24:736][753]Cmd: ACTOR DELETE
+[2017.01.12-03.57.24:737][753]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.01.12-03.57.24:758][753]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2017.01.12-03.57.34:438][283]Cmd: DELETE
+[2017.01.12-03.57.34:438][283]Cmd: ACTOR DELETE
+[2017.01.12-03.57.34:439][283]LogEditorActor: Deleted Actor: Brush
+[2017.01.12-03.57.34:458][283]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2017.01.12-03.57.49:369][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.01.12-03.58.52:077][498]LogTexture:Display: 正在构建贴图: CASC_Lights (BC5)
+[2017.01.12-03.59.01:559][688]LogMaterial: Missing cached shader map for material M_light_shaft, compiling. 
+[2017.01.12-03.59.18:490][227]LogTexture:Display: 正在构建贴图: T_EV_LightBeam_Falloff_01 (AutoDXT)
+[2017.01.12-03.59.18:510][227]LogTexture:Display: 正在构建贴图: T_EV_LightBeam_Falloff_02 (BGRA8)
+[2017.01.12-03.59.18:513][227]LogTexture:Display: 正在构建贴图: T_EV_DustPanner_01 (AutoDXT)
+[2017.01.12-03.59.53:677][330]LogTexture:Display: 正在构建贴图: T_EV_FogSheet_Falloff_01 (AutoDXT)
+[2017.01.12-03.59.53:848][330]LogTexture:Display: 正在构建贴图: T_EV_FogSheet_CloudTex_02 (AutoDXT)
+[2017.01.12-03.59.55:462][330]LogTexture:Display: 正在构建贴图: T_EV_Fogsheet_FlareColors_01 (AutoDXT)
+[2017.01.12-04.02.16:397][376]LogTemp: Repeting last play command: 选中的视口
+[2017.01.12-04.02.16:411][376]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.02.16:411][376]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-04.02.16:412][376]PIE: New page: PIE会话: FirstPersonExampleMap (2017年1月12日 下午8:02:16)
+[2017.01.12-04.02.16:412][376]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.12-04.02.16:415][376]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002846s)
+[2017.01.12-04.02.16:415][376]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-04.02.16:416][376]LogPlayLevel: PIE: World Init took: (0.000974s)
+[2017.01.12-04.02.16:416][376]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.004156s)
+[2017.01.12-04.02.16:457][376]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-04.02.16:477][376]LogInit: FAudioDevice initialized.
+[2017.01.12-04.02.16:510][376]LogLoad: Game class is 'aliluyaOVOGameMode'
+[2017.01.12-04.02.16:513][376]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.01.12-12.02.16
+[2017.01.12-04.02.16:513][376]LogWorld: Bringing up level for play took: 0.002050
+[2017.01.12-04.02.16:516][376]PIE: 信息 /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.255
+[2017.01.12-04.02.16:516][376]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.02.28:294][862]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.02.28:368][862]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.02.36:293][159]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.01.12-04.02.36:927][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.01.12-04.04.06:794][208]LogTemp: Repeting last play command: 选中的视口
+[2017.01.12-04.04.06:808][208]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.04.06:808][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-04.04.06:809][208]PIE: New page: PIE会话: FirstPersonExampleMap (2017年1月12日 下午8:04:06)
+[2017.01.12-04.04.06:809][208]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.12-04.04.06:812][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002895s)
+[2017.01.12-04.04.06:812][208]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-04.04.06:813][208]LogPlayLevel: PIE: World Init took: (0.001080s)
+[2017.01.12-04.04.06:813][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.004321s)
+[2017.01.12-04.04.06:851][208]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-04.04.06:871][208]LogInit: FAudioDevice initialized.
+[2017.01.12-04.04.06:906][208]LogLoad: Game class is 'aliluyaOVOGameMode'
+[2017.01.12-04.04.06:908][208]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.01.12-12.04.06
+[2017.01.12-04.04.06:908][208]LogWorld: Bringing up level for play took: 0.001676
+[2017.01.12-04.04.06:911][208]PIE: 信息 /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间0.137
+[2017.01.12-04.04.06:911][208]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.04.16:912][625]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.04.16:990][625]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.04.21:907][819]Cmd: SELECT NONE
+[2017.01.12-04.04.49:095][818]Cmd: DELETE
+[2017.01.12-04.04.49:095][818]Cmd: ACTOR DELETE
+[2017.01.12-04.04.49:096][818]LogEditorActor: Deleted Actor: DirectionalLight
+[2017.01.12-04.04.49:128][818]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2017.01.12-04.05.02:637][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.01.12-04.05.20:911][  6]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2017.01.12-04.05.22:195][ 53]Cmd: EDIT COPY
+[2017.01.12-04.05.22:464][ 63]Cmd: EDIT PASTE
+[2017.01.12-04.05.30:886][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2017.01.12-04.05.43:290][722]Cmd: EDIT COPY
+[2017.01.12-04.05.43:519][731]Cmd: EDIT PASTE
+[2017.01.12-04.06.01:251][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2017.01.12-04.06.03:786][362]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2017.01.12-04.06.10:939][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.01.12-04.06.19:026][925]LogTemp: Repeting last play command: 选中的视口
+[2017.01.12-04.06.19:040][925]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.06.19:040][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-04.06.19:040][925]PIE: New page: PIE会话: FirstPersonExampleMap (2017年1月12日 下午8:06:19)
+[2017.01.12-04.06.19:040][925]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.12-04.06.19:043][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003083s)
+[2017.01.12-04.06.19:044][925]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-04.06.19:044][925]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2017.01.12-04.06.19:045][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.004229s)
+[2017.01.12-04.06.19:079][925]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-04.06.19:095][925]LogInit: FAudioDevice initialized.
+[2017.01.12-04.06.19:126][925]LogLoad: Game class is 'aliluyaOVOGameMode'
+[2017.01.12-04.06.19:127][925]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.01.12-12.06.19
+[2017.01.12-04.06.19:128][925]LogWorld: Bringing up level for play took: 0.001515
+[2017.01.12-04.06.19:130][925]PIE: 信息 /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间0.352
+[2017.01.12-04.06.19:130][925]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.06.28:056][295]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.06.28:132][295]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.06.33:038][477]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.01.12-04.07.08:001][310]LogTemp: Repeting last play command: 选中的视口
+[2017.01.12-04.07.08:012][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.07.08:012][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.01.12-04.07.08:012][310]PIE: New page: PIE会话: FirstPersonExampleMap (2017年1月12日 下午8:07:08)
+[2017.01.12-04.07.08:013][310]LogPlayLevel: Creating play world package: /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2017.01.12-04.07.08:018][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005412s)
+[2017.01.12-04.07.08:019][310]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2017.01.12-04.07.08:019][310]LogPlayLevel: PIE: World Init took: (0.000945s)
+[2017.01.12-04.07.08:019][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.006646s)
+[2017.01.12-04.07.08:055][310]LogInit: XAudio2 using '喇叭/耳机 (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.01.12-04.07.08:070][310]LogInit: FAudioDevice initialized.
+[2017.01.12-04.07.08:103][310]LogLoad: Game class is 'aliluyaOVOGameMode'
+[2017.01.12-04.07.08:105][310]LogWorld: Bringing World /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 60) at 2017.01.12-12.07.08
+[2017.01.12-04.07.08:105][310]LogWorld: Bringing up level for play took: 0.001781
+[2017.01.12-04.07.08:108][310]PIE: 信息 /Game/FirstPersonCPP/Maps/UEDPIE_0_FirstPersonExampleMap的‘在编辑器中播放’的起始时间-0.671
+[2017.01.12-04.07.08:108][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.07.18:157][736]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.07.18:232][736]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap' with GeneratedClass '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap_C' with ClassGeneratedBy '/Game/FirstPersonCPP/Maps/FirstPersonExampleMap.FirstPersonExampleMap:PersistentLevel.FirstPersonExampleMap'
+[2017.01.12-04.07.26:241][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone2)
+[2017.01.12-04.07.36:324][311]LogD3D11RHI:Error: Result failed 
+ at D:\Build\++UE4+Release-4.14+Compile\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Viewport.cpp:275 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_REMOVED
+[2017.01.12-04.07.36:341][311]LogWindows: Windows GetLastError: 操作成功完成。 (0)

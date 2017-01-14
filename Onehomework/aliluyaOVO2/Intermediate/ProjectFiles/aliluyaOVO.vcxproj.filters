@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\aliluyaOVO.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{A7D5D814-FE72-4803-B035-D6FDB15D549D}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\aliluyaOVO.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\aliluyaOVOEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{55A6B941-3680-46A0-92B4-545254825C4C}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\aliluyaOVO">
+			<UniqueIdentifier>{B84096D7-285C-43C9-979B-A571A00FF9A7}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\aliluyaOVO\aliluyaOVO.Build.cs">
+			<Filter>Source\aliluyaOVO</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\aliluyaOVO\aliluyaOVO.cpp">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\aliluyaOVO.h">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\aliluyaOVO\aliluyaOVOCharacter.cpp">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\aliluyaOVOCharacter.h">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\aliluyaOVO\aliluyaOVOGameMode.cpp">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\aliluyaOVOGameMode.h">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\aliluyaOVO\aliluyaOVOHUD.cpp">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\aliluyaOVOHUD.h">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\aliluyaOVO\aliluyaOVOProjectile.cpp">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\aliluyaOVOProjectile.h">
+			<Filter>Source\aliluyaOVO</Filter>
+		</ClInclude >
+		<Filter Include="Source\aliluyaOVO\TP_ThirdPerson">
+			<UniqueIdentifier>{A8D835C2-EAE4-4739-8E65-AA34C5F70F91}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\aliluyaOVO\TP_ThirdPerson\TP_ThirdPersonCharacter.cpp">
+			<Filter>Source\aliluyaOVO\TP_ThirdPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\TP_ThirdPerson\TP_ThirdPersonCharacter.h">
+			<Filter>Source\aliluyaOVO\TP_ThirdPerson</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\aliluyaOVO\TP_ThirdPerson\TP_ThirdPersonGameMode.cpp">
+			<Filter>Source\aliluyaOVO\TP_ThirdPerson</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\aliluyaOVO\TP_ThirdPerson\TP_ThirdPersonGameMode.h">
+			<Filter>Source\aliluyaOVO\TP_ThirdPerson</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>
